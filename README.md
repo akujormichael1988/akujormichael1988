@@ -1,11 +1,9 @@
-![](https://github.com/Jadonsofficiall/AboutMe/blob/main/istockphoto-1325034866-612x612.jpg)
-
 <h1 align="center">Hi, I'm Michael</h1>
 <h3 align="center">I'm a trained and certified expert in Excel, SQL and Power BI Analytics. I am an analytics educator who understands basic and advance tools such as, EView, R and SPSS for research, business and health analysis. I help businesses, Economists, students and sales executives, financial institutions, uncover insights with data.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akujormichael1988\&label=Profile%20views\&color=0e75b6\&style=flat" alt="akujormichael1988" /> </p>
 
-[Michael Akujor] is a trained and certified expert in Excel and Power BI Analytics. A data analytics instructor who understands basic and advance tools like, Eview, Advance Excel, SQL, R and SPSS for research, business, Economist, Students, Sales Executives, Aluminum Service Provider,Aluminum Fabricator instructor, A lecturer and political Analyst, Real Estate, Supply and General Contract. I **help businesses, students and sales executives uncover insights with data.**
+**Michael Akujor** is a trained and certified expert in Excel and Power BI Analytics. A data analytics instructor who understands basic and advance tools like, Eview, Advance Excel, SQL, R and SPSS for research, business, Economist, Students, Sales Executives, Aluminum Service Provider,Aluminum Fabricator instructor, A lecturer and political Analyst, Real Estate, Supply and General Contract. I **help businesses, students and sales executives uncover insights with data.**
 
 - 🔭 I’m currently working on **Advance Excel**
 
@@ -36,9 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akujormichael1988\&show\_icons=true\&locale=en" alt="akujormichael1988" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadonsofficiall\&" alt="akujormichael1988" /></p>
-# AboutMe
-
-## Hi there 👋
 
 <!--
 **akujormichael1988/akujormichael1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
